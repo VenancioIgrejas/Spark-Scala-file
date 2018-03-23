@@ -107,7 +107,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>gta.spark.App</mainClass>
+                            <mainClass></mainClass>
                         </manifest>
                     </archive>
                 </configuration>
